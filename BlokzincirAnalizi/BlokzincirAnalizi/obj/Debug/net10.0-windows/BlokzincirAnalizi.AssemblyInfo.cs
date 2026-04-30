@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlokzincirAnalizi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb3b64fe57d5f27e7c000b450908177489ed629c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ae10298ee47d3fc43c0b30c58f68b20dd858945")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlokzincirAnalizi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlokzincirAnalizi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
