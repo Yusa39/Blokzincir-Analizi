@@ -1,4 +1,4 @@
-namespace BlokzincirAnalizi
+namespace deneme
 {
     internal static class Program
     {

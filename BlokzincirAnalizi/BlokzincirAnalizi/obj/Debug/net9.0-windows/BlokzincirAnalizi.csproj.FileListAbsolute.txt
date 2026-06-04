@@ -1,0 +1,17 @@
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\bin\Debug\net9.0-windows\BlokzincirAnalizi.exe
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\bin\Debug\net9.0-windows\BlokzincirAnalizi.deps.json
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\bin\Debug\net9.0-windows\BlokzincirAnalizi.runtimeconfig.json
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\bin\Debug\net9.0-windows\BlokzincirAnalizi.dll
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\bin\Debug\net9.0-windows\BlokzincirAnalizi.pdb
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\obj\Debug\net9.0-windows\deneme.Form1.resources
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\obj\Debug\net9.0-windows\BlokzincirAnalizi.csproj.GenerateResource.cache
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\obj\Debug\net9.0-windows\BlokzincirAnalizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\obj\Debug\net9.0-windows\BlokzincirAnalizi.AssemblyInfoInputs.cache
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\obj\Debug\net9.0-windows\BlokzincirAnalizi.AssemblyInfo.cs
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\obj\Debug\net9.0-windows\BlokzincirAnalizi.csproj.CoreCompileInputs.cache
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\obj\Debug\net9.0-windows\BlokzincirAnalizi.sourcelink.json
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\obj\Debug\net9.0-windows\BlokzincirAnalizi.dll
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\obj\Debug\net9.0-windows\refint\BlokzincirAnalizi.dll
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\obj\Debug\net9.0-windows\BlokzincirAnalizi.pdb
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\obj\Debug\net9.0-windows\BlokzincirAnalizi.genruntimeconfig.cache
+C:\Users\YUSKA\Documents\GitHub\Blokzincir-Analizi\BlokzincirAnalizi\BlokzincirAnalizi\obj\Debug\net9.0-windows\ref\BlokzincirAnalizi.dll

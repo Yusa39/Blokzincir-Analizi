@@ -1,4 +1,5 @@
-﻿using System;
+﻿using deneme;
+using System;
 using System.Collections.Generic;
 using System.Security.Cryptography;
 using System.Text;
@@ -43,6 +44,5 @@ namespace BlokzincirAnalizi
                 byte[] byteDizisi = sha256.ComputeHash(Encoding.UTF8.GetBytes(hamVeri));
                 return BitConverter.ToString(byteDizisi).Replace("-", "").ToLower();
             }
-        }
-    }
+        }    }
 }
